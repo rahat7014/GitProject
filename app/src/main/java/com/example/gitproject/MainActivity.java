@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     {
         int i = 1+1;
     }
+    private void jahid()
+    {
+        int j =3+3;
+    }
 }
